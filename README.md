@@ -1,8 +1,6 @@
-## Sweetroll is now [Bellavista](https://github.com/jsonnull/bellavista).
+## Sweetroll is now DEPRECATED.
 
-Sweetroll was an experiment in writing a tiny framework that simplified application writing and sharing code between client and server. Bellavista takes this idea and develops it into a full-fledged framework while maintaining that focus on the simple, minimalist, no-nonsense approach that made sweetroll so sweet.
-
-**Bellavista is currently in early development. For projects requiring a stable API that are able to make use of Sweetroll, continue using it for now.**
+Sweetroll was an experiment in writing a tiny framework that simplified application writing and sharing code between client and server. Today there are much better options for writing isomorphic JavaScript applications, so I've chosen to deprecate this project.
 
 # Sweetroll
 
